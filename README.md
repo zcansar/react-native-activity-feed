@@ -11,18 +11,6 @@
 The official React Native integration library for Stream, a web service for
 building scalable newsfeeds and activity streams.
 
-## :warning: This SDK is no longer actively maintained by Stream
-
-A Feeds integration includes a combination of server-side and client-side code and the interface can vary widely which is why we are no longer focussing on supporting this SDK. If you are starting from scratch we recommend you only use the server-side SDKs. 
-
-This is by no means a reflection of our commitment to maintaining and improving the Feeds API which will always be a product that we support.
-
-We continue to welcome pull requests from community members in case you want to improve this SDK.
-
----
-
-Note: The user interface for the activity feed can vary widely across different apps. Most of our activity feed customers integrate with Stream via their backend and build their own UI. This takes advantage of Stream’s scalability while keeping full control over the UI. This library is only updated and improved sporadically.
-
 ## TL;DR built-in components for social networks and regular apps
 
 - Flat feeds
@@ -127,10 +115,3 @@ console.log(analyticsToken);
 Copyright (c) 2015-2019 Stream.io Inc, and individual contributors. All rights reserved.
 
 See the file "LICENSE" for information on the history of this software, terms & conditions for usage, and a DISCLAIMER OF ALL WARRANTIES.
-
-## We are hiring
-
-We've recently closed a [\$38 million Series B funding round](https://techcrunch.com/2021/03/04/stream-raises-38m-as-its-chat-and-activity-feed-apis-power-communications-for-1b-users/) and we keep actively growing.
-Our APIs are used by more than a billion end-users, and you'll have a chance to make a huge impact on the product within a team of the strongest engineers all over the world.
-
-Check out our current openings and apply via [Stream's website](https://getstream.io/team/#jobs).
